@@ -44,7 +44,7 @@ You’ll find me experimenting with new tech, scripting things, and sometimes wr
 
 ### 🤝 Let’s Connect
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/imadenjp) *(ganti dengan link kamu ya)*
+- 💬 [LinkedIn](https://www.linkedin.com/in/imadenjp)
 - 🖋️ Blog / Notes: Coming soon!
 - ✉️ Open to collabs, learning groups, and DevOps communities!
 
