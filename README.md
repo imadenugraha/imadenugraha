@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Putra
 
-### 💼 DevOps Engineer | 💻 DevSecOps & Rust Enthusiast | 🇮🇩 Based in Indonesia
+### 💼 DevOps Engineer | 💻 DevSecOps & 🦀 Rust Enthusiast | 🇮🇩 Based in Indonesia
 
 I'm a DevOps Engineer who loves building scalable and reliable infrastructure. Currently studying Informatics and Cybersecurity while working with tools like Kubernetes, Docker, Terraform, and GitOps workflows. 
 
